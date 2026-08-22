@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi there, I'm Suraj Kumar Kushwaha!
 
-<!--
-**surajkumar661380-netizen/surajkumar661380-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & ML Student at Gita Autonomous College, Bhubaneswar, Odisha.
 
-Here are some ideas to get you started:
+I'm passionate about Artificial Intelligence, Machine Learning, Python, and building practical projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Focused On
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Python Programming
+- 🧠 Exploring Generative AI & LLMs
+- 💻 Building practical projects
+- 📚 Continuously learning and improving my technical skills
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages
+- Python
+- C
+- C++
+- Java
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Featured Project
+
+### 🧮 Scientific Calculator
+A modern scientific calculator with student, engineering, finance, and unit-conversion features.
+
+🔗 Check out my repositories to explore more projects.
+
+---
+
+## 🎓 Education
+
+**B.Tech – Artificial Intelligence & Machine Learning**  
+Gita Autonomous College, Bhubaneswar, Odisha  
+2025 – 2029
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/suraj-kumar-kushwaha-b74aa637a/)
+- 🌐 [Portfolio](https://spiffy-quokka-84806a.netlify.app)
+- 📧 Email: surajkumar661380@gmail.com
